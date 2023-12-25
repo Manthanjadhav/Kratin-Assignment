@@ -12,10 +12,13 @@ The main purpose of this platform is to enhance accessibility to healthcare serv
 The platform offers a straightforward process for booking appointments:
 
 **User Registration/Login:** Users can create accounts or log in if already registered.
+
 **Doctor Search:** Users can browse and select doctors based on their specialties or locations.
+
 **Appointment Booking:** Once a doctor is chosen, users can select suitable time slots for appointments.
 
-<span style="font-size: larger;">**Technology Stack**</span>
+<span style="font-size: 50px;">**Technology Stack**</span>
 
 **Frontend:** Built using React to ensure a responsive and engaging user interface.
+
 **Backend:** Developed with Node.js and Express.js, leveraging MongoDB for data storage.
