@@ -55,7 +55,15 @@ Doctor Section:
 
 User Section:
 •	Appointment Booking: 
-Registered users can browse through approved doctors, view their profiles, and book appointments based on available time slots. Upon selecting a suitable time, the system confirms the appointment and sends reminders to users.
- 
+![4](https://github.com/Manthanjadhav/Kratin-Assignment/assets/93001323/688be054-cb2d-481e-ad04-be715dd82ba0)
+
 •	User requested Appointment
- 
+ ![5](https://github.com/Manthanjadhav/Kratin-Assignment/assets/93001323/8c2c1010-d713-4e70-9974-22860256043d)
+
+
+# Getting Started
+To run the application locally, follow these steps:
+
+1. Clone this repository.
+2. Install dependencies using **npm install**.
+3. Run the project using **npm run dev**.
